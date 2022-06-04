@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/hpfs74/playground-release-please/compare/v2.0.0...v2.1.0) (2022-06-04)
+
+
+### Features
+
+* new documentation ([4049e62](https://github.com/hpfs74/playground-release-please/commit/4049e62853c30113b63cfe6e2ffb001d4fbad1ef))
+
 ## [2.0.0](https://github.com/hpfs74/playground-release-please/compare/v1.1.0...v2.0.0) (2022-06-04)
 
 
