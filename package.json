@@ -1,6 +1,6 @@
 {
   "name": "@hpfs74/playground-release-please",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "Test 123",
   "main": "index.js",
   "scripts": {
