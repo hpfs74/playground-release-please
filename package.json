@@ -4,7 +4,7 @@
   "description": "Test 123",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/hpfs74/playground-release-please/issues"
   },
-  "homepage": "https://github.com/hpfs74/playground-release-please#readme"
+  "homepage": "https://github.com/hpfs74/playground-release-please#readme",
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
 }
