@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.0.0](https://github.com/hpfs74/playground-release-please/compare/v1.1.0...v2.0.0) (2022-06-04)
+
+
+### ⚠ BREAKING CHANGES
+
+* rename package
+
+### Features
+
+* add auto build and publish version ([76addbd](https://github.com/hpfs74/playground-release-please/commit/76addbda0896ed565e891d1944261720e734e904))
+* rename package ([c80bcb2](https://github.com/hpfs74/playground-release-please/commit/c80bcb2b71cb15e065b3d57405827c3f28cfa657))
+
 ## [1.1.0](https://github.com/hpfs74/playground-release-please/compare/v1.0.0...v1.1.0) (2022-06-04)
 
 
