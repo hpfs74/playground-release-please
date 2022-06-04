@@ -19,5 +19,8 @@
   "homepage": "https://github.com/hpfs74/playground-release-please#readme",
   "dependencies": {
     "jest": "^28.1.0"
-  }
+  },
+  "files": [
+    "main.js"
+  ]
 }
