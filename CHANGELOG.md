@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.0](https://github.com/hpfs74/playground-release-please/compare/v2.1.2...v2.2.0) (2022-06-05)
+
+
+### Features
+
+* auto package publish on release ([c170175](https://github.com/hpfs74/playground-release-please/commit/c170175554dcd72fb9fb2ce897c4a7f703c37958))
+
 ## [2.1.2](https://github.com/hpfs74/playground-release-please/compare/v2.1.1...v2.1.2) (2022-06-04)
 
 
