@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.0.0](https://github.com/hpfs74/playground-release-please/compare/v2.3.2...v3.0.0) (2022-06-07)
+
+
+### ⚠ BREAKING CHANGES
+
+* this is a breaking change
+
+### Features
+
+* this is a breaking change ([ccecbf1](https://github.com/hpfs74/playground-release-please/commit/ccecbf11b1a4d785b67eee83e4f39bf089cc508f))
+
 ## [2.3.2](https://github.com/hpfs74/playground-release-please/compare/v2.3.1...v2.3.2) (2022-06-07)
 
 
